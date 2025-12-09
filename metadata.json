@@ -1,0 +1,5 @@
+{
+  "name": "Cognitive Scanner",
+  "description": "A React implementation of the LMC Law Cognitive Scanner. Analyzes text entropy and semantic coherence using Gemini AI and compression algorithms to diagnose structural thought patterns.",
+  "requestFramePermissions": []
+}
